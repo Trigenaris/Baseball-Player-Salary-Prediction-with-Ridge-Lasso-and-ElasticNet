@@ -1,6 +1,6 @@
 # Business Problem
 
-In this section, we will go through the **Hitters** dataset as firstly analyzing the data, then preprocessing it and lastly creating 3 different models with different algorithms which they will be used respectively;
+In this section, we will go through the **[Hitters](https://www.kaggle.com/datasets/floser/hitters)** dataset as firstly analyzing the data, then preprocessing it and lastly creating 3 different models with different algorithms which they will be used respectively;
 * Ridge
 * Lasso
 * ElasticNet
